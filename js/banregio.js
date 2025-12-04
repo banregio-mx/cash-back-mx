@@ -1,0 +1,2 @@
+$(function(){var topMenu=$('#mobile-top-menu').html();new Mmenu("#menu",{navbars:[{content:[topMenu]}],extensions:["border-none","pagedim-black",],wrappers:['bootstrap'],hooks:{"openPanel:start":(panel)=>{if(panel.id!='mm-2'){$('.mm-navbars_top').hide();}
+else{$('.mm-navbars_top').show();}}}},{});$(".icon-menu-burger").on("click",(function(e){e.stopImmediatePropagation();$(".banregio-menu .navbar").toggleClass("d-none-i");dataLayer.push({'event':'boton','seccion':'home','opcion':'menu'});}));$('.mm-listitem__text').on("click",function(e){$(this).next().click();});});

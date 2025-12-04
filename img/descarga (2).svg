@@ -1,0 +1,22 @@
+<svg onclick="tags_google('boton','Web – Menu-Categorías','Personas y Empresas- ventana');" id="burgerMenu" width="25" height="25" class="icon-menu-burger" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 19 11" style="enable-background:new 0 0 19 11;" xml:space="preserve">
+                        <style type="text/css">
+                            .st0 {
+                                fill: none;
+                                stroke: #333333;
+                                stroke-linecap: round;
+                                stroke-linejoin: round;
+                            }
+                        </style>
+                        <title>icono-menu</title>
+                        <g id="menu_O">
+                            <g id="Interface-Essential_Menu_navigation-menu">
+                                <g id="Group_29">
+                                    <g id="navigation-menu">
+                                        <path id="Shape_90" class="st0" d="M18.5,0.5h-18"></path>
+                                        <path id="Shape_91" class="st0" d="M18.5,5.5h-18"></path>
+                                        <path id="Shape_92" class="st0" d="M18.5,10.5h-18"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </svg>

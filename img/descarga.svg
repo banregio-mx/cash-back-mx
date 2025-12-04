@@ -1,0 +1,15 @@
+<svg width="25" height="25" class="menu-closed-ex" data-name="Layer 13" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 13.69 13.69">
+                        <defs>
+                            <style>
+                            .cls-1 {
+                                fill: none;
+                                stroke: #FFFFFF;
+                                stroke-miterlimit: 10;
+                            }
+                            .cls-1-modal{fill:none;stroke:#FF6B00;stroke-miterlimit:10;}
+                            </style>
+                        </defs>
+                        <title>icono-close</title>
+                        <line class="cls-1" x1="0.35" y1="0.35" x2="13.34" y2="13.34"></line>
+                        <line class="cls-1" x1="13.34" y1="0.35" x2="0.35" y2="13.34"></line>
+                    </svg>

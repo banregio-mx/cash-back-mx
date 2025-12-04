@@ -1,0 +1,10 @@
+<svg width="11px" height="6px" viewBox="0 0 11 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                    <title>Triangle</title>
+                    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+                        <g transform="translate(-704.000000, -5479.000000)">
+                        <g transform="translate(0.000000, 5400.000000)">
+                            <polygon id="Triangle" transform="translate(709.500000, 82.500000) scale(1, -1) translate(-709.500000, -82.500000) " points="709.5 80 714 85 705 85"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                    </svg>
